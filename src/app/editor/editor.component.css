@@ -1,0 +1,14 @@
+.editor-element {
+  background-color: #279863;
+}
+
+
+.element-item {
+  background-color: #edffed;
+}
+
+.editor-element span {
+  color: green;
+  font-size: 13px;
+}
+
